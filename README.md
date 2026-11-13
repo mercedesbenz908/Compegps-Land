@@ -210,4 +210,4 @@ CompeGPS Land is provided as a complete free version with all features unlocked 
 Ready to take your outdoor navigation to the next level? **Download CompeGPS Land free today and start exploring!**
 
 ---
-**Last updated:** 2026-11-12 21:43:57 UTC
+**Last updated:** 2026-11-13 02:23:32 UTC
